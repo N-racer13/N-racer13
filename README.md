@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Hand Rehabilitation Game + Device Control]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://github.com/N-racer13/Cocktail-Bar))
+- [Hand Rehabilitation Game + Device Control](https://github.com/N-racer13/Cocktail-Bar)
 - [Pneumatic Motor Measurement Station UI + Control Algorithms](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2>🏫 Academic projects Projects:</h2>
