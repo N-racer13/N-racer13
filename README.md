@@ -7,16 +7,27 @@
 
 <h2>🏫 Academic projects Projects:</h2>
 
-- <b>Robot Devices, Kinematics, Dynamics and Control</b>
-  - [UR5 Resolved-Rate Control](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [<b>Robot Devices, Kinematics, Dynamics and Control</b>](https://github.com/N-racer13/RDKDC)
+  - Inverse Kinematics
+  - Jacobian
+  - UR5 Resolved-Rate Control
 - [<b>Robot Motion Planning</b>](https://github.com/N-racer13/RPM)
   - 2D & 3D Path Planning
   - Potential Field Algorithms
   - Shortest Path Algorithms
-- <b>Computer Integrated Surgery</b>
-  - [3D Path Planning](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- <b>Computer Vision</b>
-  - [Number Recognition Neural Network](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [<b>Computer Integrated Surgery</b>](https://github.com/N-racer13/CIS)
+  - Fiducial Marker matching
+  - Reference Frame Transformations
+- [<b>Computer Vision</b>](https://github.com/N-racer13/Computer-Vision)
+  - SIFT
+  - Object Detection
+  - Number Recognition Neural Network
+- [<b>Advanced Robotics</b>](https://github.com/N-racer13/Advanced-Robotics)
+  - ROS Position and Velocity Measurements
+  - ROS Panda Movement
+- [<b>Cognitive Robotics</b>](https://github.com/N-racer13/Cognitive-Robotics)
+  - ROS Server Integration
+  - ROS Bee Behaviour Project
 
 <h2>📺 Projects for fun!</h2>
 
