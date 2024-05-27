@@ -31,8 +31,8 @@
 
 <h2>📺 Projects for fun!</h2>
 
-- [Stock Option Trading Bot](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Simple Email Deleter](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Stock Option Trading Bot](https://github.com/N-racer13/Stock-Bot)
+- [Simple Email Deleter](https://github.com/N-racer13/Email-Deleter)
 
 <h2> 🤳 Connect with me:</h2>
 
