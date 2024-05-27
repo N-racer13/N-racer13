@@ -16,7 +16,7 @@
   - Potential Field Algorithms
   - Shortest Path Algorithms
 - [<b>Computer Integrated Surgery</b>](https://github.com/N-racer13/CIS)
-  - Fiducial Marker matching
+  - Fiducial Marker Matching
   - Reference Frame Transformations
 - [<b>Computer Vision</b>](https://github.com/N-racer13/Computer-Vision)
   - SIFT
