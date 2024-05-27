@@ -9,9 +9,10 @@
 
 - <b>Robot Devices, Kinematics, Dynamics and Control</b>
   - [UR5 Resolved-Rate Control](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- <b>Robot Motion Planning</b>
-  - [3D Path Planning](https://www.youtube.com/watch?v=a83ASGn_V_s)
-  - [Potential Field Algorithm](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [<b>Robot Motion Planning</b>](https://github.com/N-racer13/RPM)
+  - 2D & 3D Path Planning
+  - Potential Field Algorithms
+  - Shortest Path Algorithms
 - <b>Computer Integrated Surgery</b>
   - [3D Path Planning](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - <b>Computer Vision</b>
